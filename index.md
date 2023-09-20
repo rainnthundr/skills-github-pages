@@ -1,4 +1,4 @@
 ---
-Art Portfolio Thing (idk)
+title: Art Portfolio Thing (idk)
 ---
 
